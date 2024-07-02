@@ -57,7 +57,7 @@ const Footer = () => {
               target="_blank"
               className="transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
-              312 Lovely Street, UAE
+             مبنى twins towers ,الرقة 
             </a>
           </div>
         </div>
