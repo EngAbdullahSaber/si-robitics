@@ -23,7 +23,7 @@ const Header = () => {
 
               {t(" AUTONOMOUS TECHNOLOGY COMPONY")}
             </h1>
-            <p className="mt-6 mb-8 text-lg sm:mb-12">
+            <p className="mt-6 mb-8 text-center  text-lg sm:mb-12">
               {t(
                 "dedicated to revolutionizing the consumer services industry through innovative robotic automation integration solutions."
               )}
